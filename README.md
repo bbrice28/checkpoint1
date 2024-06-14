@@ -45,7 +45,7 @@ Enfin, je teste toutes les possibilités du script:
 ## EXERCICE 3:
 
 ## 1
-La command est "id"
+La commande est "cat /etc/passwd". Les utilisateurs étant dans le fichier "/etc/passwd", et la commande permettant de le lire "cat".
 ## 2
 Il faut taper la command "chmod 744 myfile".
 7 pour permettre au propriétaire d'avoir tous les droits.
