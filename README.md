@@ -59,8 +59,9 @@ Il faut faire un "git merge" sans oublier après le "git commit" pour valider.
 Si le texte est dans un fichier il faut faire "cat fichier.txt".
 Sinon, on utilise la commande "echo" suivie du texte.
 ## 6
-Puisque le gedit est la tache numéro 1, et que la commande permettant de mettre en avant plan la tache est "fg %x". Ici "fg" voulant dire "foreground" ou "avant-plan".
-Ici il faut tper la commande "fg %1".
+Puisque le gedit est la tache numéro 1, et que la commande permettant de mettre en avant plan la tache est "fg %x". 
+Ici "fg" voulant dire "foreground" ou "avant-plan".
+Il faut donc taper la commande "fg %1".
 ## 7
 Sur la couche 2 (liaisons des données), nous trouvons: La carte réseau qui se trouve dans les IoT/Ordinateurs et qui leurs permet de communiquer grâce (entre autres) à leurs adresses MAC avec le second appareil, le switch.
 Le switch permet de rediriger les paquets à envoyer ou donnés par le routeur, qui est présent sur la couche 3 (le réseau).
