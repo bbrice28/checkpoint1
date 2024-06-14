@@ -1,4 +1,4 @@
-# checkpoint1
+#  CHECKPOINT 1
 
 ## EXERCICE 1:
 
