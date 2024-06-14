@@ -31,6 +31,7 @@ Je tape ensuite le script suivant:
 
 NB: - J'ai supprimé les crochets pour le "if id" car le script me sortait un message d'erreur "opération attendue"
     - J'ai redirigé la sortie de ce "if id" en /dev/null pour que celle ci ne s'affiche pas à l'éxécution du script
+    - la presence de la commande "continue" permet au script de ne pas s'arreter après l'execution de la premiere condition.
   
 
 Enfin, je teste toutes les possibilités du script:
