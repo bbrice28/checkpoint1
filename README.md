@@ -61,6 +61,7 @@ Sinon, on utilise la commande "echo" suivie du texte.
 ## 6
 Puisque le gedit est la tache numéro 1, et que la commande permettant de mettre en avant plan la tache est "fg %x". 
 Ici "fg" voulant dire "foreground" ou "avant-plan".
+
 Il faut donc taper la commande "fg %1".
 ## 7
 Sur la couche 2 (liaisons des données), nous trouvons: La carte réseau qui se trouve dans les IoT/Ordinateurs et qui leurs permet de communiquer grâce (entre autres) à leurs adresses MAC avec le second appareil, le switch.
